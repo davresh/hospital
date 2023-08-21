@@ -1,0 +1,15 @@
+.partner{
+    width: 30%;
+    padding: 50px 0;
+    background-color: #DDDDDD;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+    img{
+        width: 100%;
+    }
+}

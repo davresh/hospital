@@ -1,0 +1,18 @@
+@import url("../icon/style.css");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    transition: .4s;
+}
+button{
+    cursor: pointer;
+    border: none;
+}
+input{
+    border: none;
+}
+textarea{
+    border: none;
+}

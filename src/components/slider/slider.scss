@@ -1,0 +1,39 @@
+.home-slider{
+    width: 100%;
+    padding:60px 50px;
+    background: #F4F9FF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    .home-box{
+        h1{
+            color: #12724F;
+        }
+        p{
+            width: 450px;
+            padding: 40px 0;
+            font-size: 14px;
+        }
+        a{
+            color: white;
+            background-color: #12724F;
+            font-size: 18px;
+            padding: 20px 30px;
+            border-radius: 15px;
+            text-decoration: none;
+        }
+    }
+    .home-img{
+        z-index: 1;
+        img{
+            width: 80%;
+        }
+    }
+    .bgimg{
+        width: 280px;
+        position: absolute;
+        right: 20px;
+        bottom: 5px;
+    }
+}
